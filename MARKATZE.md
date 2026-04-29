@@ -23,11 +23,11 @@ Select erabiltzeko pausoak ez dute zailtasun handirik, egin behar dena da \<sele
 ![](cuarto.png) 
 XML bilaketa
 
-![][image5]
+![](quinto.png)
 
 JS-ean, XML-an bilaketak egiteko, JSON-en formula ezberdinak erabiltzen dira. Zorionez, .find baina ez da beharrezkoa egin behar dugun bilaketak egiteko, mongodb/mysql-tik formulak laburbilduta/sorteatuta datoztelako..
 
-![][image6]
+![](sexto.png)
 
 Eta tarjeta bakoitzarako bere kolorea ipintzeko, honelako formula hau erabili da hiru aldiz (if, else if, else)
 

@@ -20,7 +20,7 @@ HTML \- Select
 
 Select erabiltzeko pausoak ez dute zailtasun handirik, egin behar dena da \<select\> ireki, barruan listatu nahi duzun opzioak ipini \<option\>\</option\> aretan, eta itxi \</select\>.
 
-![][image4]  
+![](tercero.png) 
 XML bilaketa
 
 ![][image5]

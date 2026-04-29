@@ -1,6 +1,6 @@
 XML fitxategia:
 
-![][image1]
+![](Captura de pantalla 2026-04-29 183700.png)
 
 Root da datu guztiak gordetzen duen aita izena esaterako, edozein datu bilatzeko root-en barrura sartu behar da.
 

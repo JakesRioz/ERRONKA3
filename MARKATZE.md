@@ -16,11 +16,11 @@ JSON fitxategia:
 
 XML fitxategiaren antxerakoa da datuak nola gordetzen dituen moduan, baina kasu hontan, ez du ‘\<id\>’ moduko fitxategiak erabiltzen, baizik eta ‘ “id”:’ modukoak. Antzeko era batean, aldatu beharrekoa “” artean dagoena da, datuak aldatu nahian.  
 HTML \- Select  
-![][image3]
+![](tercero.png)
 
 Select erabiltzeko pausoak ez dute zailtasun handirik, egin behar dena da \<select\> ireki, barruan listatu nahi duzun opzioak ipini \<option\>\</option\> aretan, eta itxi \</select\>.
 
-![](tercero.png) 
+![](cuarto.png) 
 XML bilaketa
 
 ![][image5]
